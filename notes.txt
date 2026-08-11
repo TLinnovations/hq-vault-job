@@ -1,1 +1,2 @@
 TODO: clean up before demo
+chore: add temp notes
