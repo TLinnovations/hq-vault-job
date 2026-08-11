@@ -1,2 +1,3 @@
 chore: strip debug notes - leftover fragment I still in the diff, my bad
 chore: add temp notes
+docs: final polish before hand-off
